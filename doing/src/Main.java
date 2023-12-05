@@ -1,6 +1,10 @@
 public class Main {
    public static void main(String[] args) {
-    String g = "ananda";
-     System.out.println("My\t" + "name\t" +   "is\t" +  g);
+
+    int foo = 17;
+    int bar = 4;
+
+    System.out.print(double) (foo) / (bar);
+
     }
 }
